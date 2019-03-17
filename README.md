@@ -1,2 +1,2 @@
 # Spam-Filter-Python
-spam-ham sms filter using sckitlearn (naive bayes)
+spam-ham sms filter using sklearn (naive bayes)
